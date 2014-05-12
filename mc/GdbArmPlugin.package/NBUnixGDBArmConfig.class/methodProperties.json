@@ -4,4 +4,6 @@
 	"instance" : {
 		"defaultExternalPlugins" : "maxmattone 5/7/2014 18:30",
 		"defaultInternalPlugins" : "maxmattone 5/7/2014 18:30",
+		"initialize" : "maxmattone 5/12/2014 10:57",
+		"isGenerateForRelease" : "maxmattone 5/12/2014 10:59",
 		"setExtraTargetProperties:" : "maxmattone 5/7/2014 18:38" } }
