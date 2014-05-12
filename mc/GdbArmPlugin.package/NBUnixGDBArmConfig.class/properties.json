@@ -1,0 +1,14 @@
+{
+	"category" : "GdbArmPlugin",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "NBUnixGDBArmConfig",
+	"pools" : [
+		 ],
+	"super" : "NBCogUnixConfig",
+	"type" : "normal" }

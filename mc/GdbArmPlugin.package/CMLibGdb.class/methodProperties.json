@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"archiveMD5Sum" : "maxmattone 4/24/2014 16:21",
+		"canonicalName" : "maxmattone 4/29/2014 11:08",
+		"supports:" : "maxmattone 4/24/2014 16:18" },
+	"instance" : {
+		"archiveMD5Sum" : "maxmattone 4/24/2014 16:22",
+		"build" : "maxmattone 4/24/2014 17:34",
+		"copyArtefacts" : "maxmattone 4/24/2014 16:25",
+		"defineAsTarget" : "maxmattone 4/24/2014 17:34",
+		"defineGlobalTargets" : "maxmattone 4/24/2014 16:26",
+		"downloadURL" : "maxmattone 4/24/2014 16:05",
+		"setVariables" : "maxmattone 4/24/2014 17:36",
+		"unpackedDirName" : "maxmattone 4/24/2014 17:31" } }

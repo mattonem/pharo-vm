@@ -1,0 +1,14 @@
+{
+	"category" : "GdbArmPlugin",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "CMLibGdb",
+	"pools" : [
+		 ],
+	"super" : "CMThirdpartyLibrary",
+	"type" : "normal" }
