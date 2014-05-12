@@ -9,7 +9,11 @@ Author useAuthor: 'LoadVMMaker' during: [
 		squeaksource: 'MetacelloRepository';
 		package: 'ConfigurationOfCog';
 		load.	
-	(Smalltalk at: #ConfigurationOfCog) loadGit. ].
+	(Smalltalk at: #ConfigurationOfCog) loadGit.
+	Gofer new
+   		url:'http://www.smalltalkhub.com/mc/maxmattone/GdbARMPlugin/main';   			package: 'ConfigurationOfGdbArmPlugin';
+    		load.
+	(Smalltalk at: #ConfigurationOfGdbArmPlugin) loadBleedingEdge ].
 
 (Smalltalk saveAs: 'generator') 
     ifFalse: [ Smalltalk snapshot: false andQuit: true ].
